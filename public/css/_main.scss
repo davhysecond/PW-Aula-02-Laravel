@@ -1,0 +1,17 @@
+section {
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .position {
+    width: 80%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+
+    > h1 {
+      color: #333;
+    }
+  }
+}
